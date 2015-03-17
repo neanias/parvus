@@ -1,4 +1,4 @@
-require "parvus/version"
+require 'parvus/version'
 
 module Parvus
   # Your code goes here...
