@@ -1,4 +1,5 @@
 # Parvus
+[![Build Status](https://travis-ci.org/neanias/parvus.svg)](https://travis-ci.org/neanias/parvus)
 
 Yet another URL shortening gem
 
