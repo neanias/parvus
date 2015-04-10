@@ -1,5 +1,5 @@
-require "parvus/version"
+require 'thor'
+require 'httparty'
 
-module Parvus
-  # Your code goes here...
-end
+require_relative 'parvus/version'
+require_relative 'parvus/cli'
