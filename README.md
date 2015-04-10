@@ -1,27 +1,20 @@
-# Parvus
-[![Build Status](https://travis-ci.org/neanias/parvus.svg)](https://travis-ci.org/neanias/parvus)
+# Parvus [![Build Status](https://travis-ci.org/neanias/parvus.svg)](https://travis-ci.org/neanias/parvus)
 
 Yet another URL shortening gem
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'parvus'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
     $ gem install parvus
 
 ## Usage
 
-TODO: Write usage instructions here
+For usage instructions
+
+    $ parvus (help)
+
+To shorten urls
+
+    $ parvus shorten (-s SERVICE) URL
 
 ## Contributing
 
