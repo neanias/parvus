@@ -1,6 +1,7 @@
 # Parvus
+[![Build Status](https://travis-ci.org/neanias/parvus.svg)](https://travis-ci.org/neanias/parvus)
 
-TODO: Write a gem description
+Yet another URL shortening gem
 
 ## Installation
 
@@ -24,7 +25,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/parvus/fork )
+1. Fork it ( https://github.com/neanias/parvus/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
