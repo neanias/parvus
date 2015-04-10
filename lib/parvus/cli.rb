@@ -1,6 +1,3 @@
-require 'thor'
-require_relative 'version'
-
 class CommandLineParser < Thor
   map '--version' => :version, '-v' => :version
 
