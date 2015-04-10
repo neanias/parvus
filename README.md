@@ -2,6 +2,12 @@
 
 Yet another URL shortening gem
 
+## Currently supported shortening services:
+
+* [butts.so](http://butts.so) *For fart noise short links!*
+* [bitly](https://bitly.com)
+* *More coming soon!*
+
 ## Installation
 
     $ gem install parvus
